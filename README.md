@@ -100,3 +100,7 @@ I also practiced DHCP configuration, NAT for internet access, ACL-based traffic 
 
 This project was created only for learning and portfolio purposes. It does not contain real hospital data and should not be considered a production-ready network design.
 
+## Topology
+
+![Network Topology](topology.png)
+
